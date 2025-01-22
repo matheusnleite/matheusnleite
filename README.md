@@ -21,33 +21,27 @@
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias Mais Usadas
 
-### Linguagens de Programação:
-- **Python**: Usado para automação e desenvolvimento geral.
-- **C**: Para desenvolvimento de sistemas e soluções baseadas em algoritmos.
-- **C++**: Projetos mais avançados, como aplicações e jogos.
-- **HTML, CSS e JavaScript**: Para criação de aplicações web interativas.
-
-### Ferramentas:
-- **Git e GitHub**: Controle de versão e colaboração em projetos.
-- **Visual Studio Code**: Ambiente de desenvolvimento integrado (IDE) principal.
-- **Markdown**: Documentação e formatação de arquivos `README`.
-
-### Tecnologias Complementares:
-- **Desenvolvimento Web**: Foco em aplicações front-end e jogos simples.
-- **Criação de Arquivos e Automação**: Uso de arquivos para gerenciar informações em projetos em C.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusnleite&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnleite&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnleite&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusnleite&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
 </p>
 
 ---
